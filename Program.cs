@@ -11,6 +11,7 @@ namespace cs_homework8
         Current,
         Savings
     }
+
     public class BankAccount
     {
         private static int _nextAccountNumber = 1;
